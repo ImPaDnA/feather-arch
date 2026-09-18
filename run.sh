@@ -17,3 +17,7 @@ python3 -c "import tkinter" 2>/dev/null || {
 
 # Ejecutar el punto de entrada principal
 exec python3 src/main.py
+
+
+#darle permisos si es en LINUX
+## chmod +x run.sh
